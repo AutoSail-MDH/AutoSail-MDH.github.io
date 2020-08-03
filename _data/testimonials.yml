@@ -1,16 +1,20 @@
-- name: Rose Ray
-  title: CEO-Themefisher
+- name: Casper Adlerteg
+  title: Software
   testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
+- name: Emma Frisk
+  title: Hardware
   testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
+- name: Julia Looström
+  title: Hardware
   testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
+- name: Patrik Forsslund
+  title: Software
+  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
+  image: img/item-img1.jpg
+- name: Simon Monié
+  title: Project manager
   testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
   image: img/item-img1.jpg
