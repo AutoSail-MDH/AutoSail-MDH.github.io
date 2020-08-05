@@ -37,6 +37,11 @@ p {
   font-size: 15px;
   line-height: 28px;
 }
+
+ion-icon {
+  font-size: 64px;
+}
+
 ul {
   padding: 0;
   margin: 0;
@@ -59,7 +64,7 @@ a:active {
 .section-title p {
   font-family: 'Volkhov', serif;
   font-style: italic;
-  color: #666;
+  color: #0d3e6e;
 }
 /*--
 	Header Start
@@ -83,12 +88,12 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #333333;
+  color: #0d3e6e;
   padding: 10px 26px;
   font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
-  color: #000;
+  color: #406f9d;
 }
 /*---------------------------------------------
 					Index Start
@@ -97,7 +102,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/norrsken.JPG") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -113,11 +118,11 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  background: linear-gradient(to left,  #c2e1ff, #0d3e6e);
   opacity: 0.8;
 }
 #slider .block {
-  color: #E3E3E4;
+  color: #fff;
 }
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
@@ -146,7 +151,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: #406f9d;
   padding-top: 20px;
 }
 #intro .block img {
@@ -171,15 +176,15 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #service .service-item i {
   font-size: 60px;
-  color: #4A4656;
+  color: #000;
 }
 #service .service-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #0d3e6e;
 }
 #service .service-item p {
-  color: #888;
+  color: #406f9d;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -206,7 +211,7 @@ font header .navbar-default .navbar-nav li a:hover {
   bottom: 0;
   width: 100%;
   height: 100%;
-  background: #1d192c;
+  background: #0d3e6e;
   opacity: 0.8;
 }
 #call-to-action h2 {
@@ -224,14 +229,14 @@ font header .navbar-default .navbar-nav li a:hover {
   border: none;
   background-color: #fff;
   font-size: 15px;
-  color: #333333;
+  color: #000;
   margin-top: 30px;
 }
 /*--
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/norrsken1.JPG");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -240,7 +245,6 @@ font header .navbar-default .navbar-nav li a:hover {
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
-  background-color: #fff;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -252,19 +256,37 @@ font header .navbar-default .navbar-nav li a:hover {
   backface-visibility: hidden;
   padding: 100px 0;
 }
+
+#feature:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to left,  #c2e1ff, #0d3e6e);
+  opacity: 0.6;
+}
+
 #feature h2 {
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
+  color: #0d3e6e;
 }
 #feature p {
   color: #8d8f92;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
-  background: #655E7A;
+  padding: 15px 35px;
+  border: none;
+  background-color: #0d3e6e;
+  font-size: 15px;
   color: #fff;
-  padding: 10px 20px;
+  margin-top: 30px;
 }
 /*--
 	content Start
@@ -374,7 +396,7 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
+  background: linear-gradient(to left,  #c2e1ff, #0d3e6e 70%);
   opacity: 0.8;
 }
 #global-header .block {
@@ -622,7 +644,7 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
+  background: linear-gradient(to left,  #c2e1ff, #0d3e6e 70%);
   opacity: 0.8;
 }
 #slider-contact .block {
