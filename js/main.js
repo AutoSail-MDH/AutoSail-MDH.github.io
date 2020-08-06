@@ -8,6 +8,8 @@ $(document).ready(function(){
 	    paginationSpeed : 500,      
 	    singleItem:true,
 	    autoPlay: 3000,
+	    touchDrag:true,
+	    stopOnHover:true,
 	});
 
 
