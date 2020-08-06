@@ -338,6 +338,7 @@ font header .navbar-default .navbar-nav li a:hover {
 #testimonial .testimonial-carousel .user img {
   padding-bottom: 0px;
   border-radius: 500px;
+  height: 100px;
 }
 #testimonial .testimonial-carousel .user p {
   padding-bottom: 0;
@@ -855,9 +856,9 @@ Photot gallery
 }
 
 .photo img {
-  width: 400px;
+  width: 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  box-sizing: border-box;
 }
 
-.photo {
-  width: auto;
-}
