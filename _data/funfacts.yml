@@ -1,12 +1,16 @@
-- counter: 200
+- counter: 143
   icon: ion-ios-chatboxes-outline
   text: Swedish-fika pauses
-- counter: 100
+  id: swedish-fika-pauses
+- counter: 0
   icon: ion-ios-glasses-outline
-  text: Papers read
-- counter: 2000
+  text: Days since the last accident
+  id: days-since-the-last-accident
+- counter: 734
   icon: ion-ios-compose-outline
   text: Rows of code
-- counter: 500
+  id: rows-of-code
+- counter: 1489
   icon: ion-ios-timer-outline
   text: Hours worked
+  id: hours-worked
