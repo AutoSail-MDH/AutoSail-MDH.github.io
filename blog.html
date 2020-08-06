@@ -10,8 +10,8 @@ permalink: /blog/
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h1>Catch up with us</h1>
-          <p>Follow us on social media!</p>
+          <h1>CATCH UP ON US</h1>
+          <p>...</p>
         </div>
       </div>
     </div>
@@ -27,16 +27,20 @@ permalink: /blog/
 </div>
 {% endfor %}
 
-<section id="gallery" class="container">
-  <div class="row">
-    {% for image in site.static_files %}
-        {% if image.path contains 'img/gallery' %}
-          
-            <div class="photo col-sm-6 col-md-3">
-              <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-            </div>
+<section id="gallery">
+  <div class="container">
+    <div class="row">
+      {% for image in site.static_files %}
+          {% if image.path contains 'img/gallery' %}
+            
+              <div class="photo col-sm-6 col-md-3">
+                <a href="{{ site.baseurl }}{{ image.path }}">
+                  <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+                </a>
+              </div>
 
-        {% endif %}
-    {% endfor %}
+          {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </section>
