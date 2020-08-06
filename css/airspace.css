@@ -151,6 +151,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-top: 35px;
   line-height: 27px;
   margin: 0;
+  color: #0d3e6e;
 }
 #intro .block p {
   color: #406f9d;
@@ -180,6 +181,10 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 60px;
   color: #000;
 }
+#service h2 {
+  color: #0d3e6e;
+}
+
 #service .service-item h4 {
   padding-top: 20px;
   margin: 0;
@@ -295,6 +300,9 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #testimonial {
   padding: 100px 0;
+}
+#testimonial h2 {
+  color: #0d3e6e;
 }
 #testimonial .block h2 {
   line-height: 27px;
@@ -688,7 +696,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0px;
   color: #0d3e6e;
 }
-#contact-form .block form .form-group .form-control {
+#contact-form .block .form-group .form-control {
   background: #d4e9ff;
   height: 60px;
   border: 1px solid #c2e1ff;
@@ -696,23 +704,24 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
   color: #0d3e6e;
 }
-#contact-form .block form .form-group .form-control::placeholder{
+#contact-form .block .form-group .form-control::placeholder{
   color: #0d3e6e;
 }
-#contact-form .block form .form-group-2 {
+#contact-form .block .form-group-2 {
   padding-bottom: 15px;
   margin: 0px;
   color: #0d3e6e;
 }
-#contact-form .block form .form-group-2 textarea {
+#contact-form .block .form-group-2 textarea {
   background: #d4e9ff;
   height: 135px;
   border: 1px solid #c2e1ff;
   box-shadow: none;
   width: 100%;
   color: #0d3e6e;
+
 }
-#contact-form .block form .form-group-2 textarea::placeholder {
+#contact-form .block .form-group-2 textarea::placeholder {
   color: #0d3e6e;
 }
 #contact-form .block button {
