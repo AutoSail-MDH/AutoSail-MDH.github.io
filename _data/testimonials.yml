@@ -1,20 +1,20 @@
 - name: Casper Adlerteg
   title: Software
   testimonial: "I am an easy-going guy that always says what he thinks. Being the youngest member of the team I have spent my entire life behind a school desk so this project for me represents a chance to make use of what I have learned and create something from scratch. If my time within this team is any indication of what it’s like working as an engineer then I am excited for the rest of my life."
-  image: img/casper.jpg
+  image: /img/casper.jpg
 - name: Emma Frisk
   title: Hardware
   testimonial: "I am a positive and driven woman that puts the team before myself. Beyond my engineering knowledge I help the team by creating an organized and well-structured environment. My interests lie with hardware more than software as it relates to engineering. On my free time I am a dedicated floorball keeper for Rönnby Västerås and play in the second highest league in Sweden."
-  image: img/emma.jpg
+  image: /img/emma.jpg
 - name: Julia Looström
   title: Hardware
   testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/julia.png
+  image: /img/julia.png
 - name: Patrik Forsslund
   title: Software
   testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/patrik.jpg
+  image: /img/patrik.jpg
 - name: Simon Monié
   title: Project manager
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/simon.jpg
+  testimonial: "I am a loving husband and soon to be father of two so I am used to a lot of responsibility. Being a first time project manager is still a daunting task with a lot of new territory for me personally, but with this great team I am confident of success."
+  image: /img/simon.jpg
