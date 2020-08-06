@@ -146,6 +146,9 @@ px      68    160    252    344    436    528    620    712    */
   #features-contact .block ul li {
     width: 49%;
   }
+  .google-map iframe {
+    width: 100%;
+  }
   /*---------------------------------------------
 					contact close 
 -----------------------------------------------*/
@@ -178,16 +181,17 @@ px      68    160    252    */
   #slider {
     padding-top: 90px;
     padding-bottom: 100px;
+    background-position: center;
   }
   #slider .block {
     padding-left: 0px;
   }
-  #slider .block h1 {
+  /*--#slider .block h1 {
     font-size: 20px;
   }
   #slider .block p {
     font-size: 13px;
-  }
+  }--*/
   /*--
 	wrapper Start 
 --*/
@@ -370,6 +374,10 @@ px      68    160    252    */
   #wrapper-contact .block .social-media-icon a i {
     padding-top: 30px;
   }
+  .google-map iframe {
+    width: 100%;
+  }
+
   /*--
 	features-contact Start 
 --*/
