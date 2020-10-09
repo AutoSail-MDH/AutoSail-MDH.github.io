@@ -1,20 +1,48 @@
 - name: Casper Adlerteg
-  title: Software
+  title: Software Engineer
   testimonial: "I am an easy-going guy that always says what he thinks. Being the youngest member of the team I have spent my entire life behind a school desk so this project for me represents a chance to make use of what I have learned and create something from scratch. If my time within this team is any indication of what it’s like working as an engineer then I am excited for the rest of my life."
   image: /img/casper.JPG
 - name: Emma Frisk
-  title: Hardware
+  title: Hardware Team Leader
   testimonial: "I am a positive and driven woman that puts the team before myself. Beyond my engineering knowledge I help the team by creating an organized and well-structured environment. My interests lie with hardware more than software as it relates to engineering. On my free time I am a dedicated floorball keeper for Rönnby Västerås and play in the second highest league in Sweden."
   image: /img/emma.JPG
 - name: Julia Looström
-  title: Hardware
+  title: Hardware Engineer
   testimonial: "With a great passion for new experiences and knowledge, I’m a forward and driven person with a lot of energy and new ideas. My interest for art mirrors my organised way of working and contributes with those qualities to the group in addition to my engineering skills. I’m also a dedicated eventing rider on International level which is how I spend my spare time."
   image: /img/julia.PNG
 - name: Patrik Forsslund
-  title: Software
+  title: Software Team Leader
   testimonial: "My passion for programming and computer science has the opportunity to grow in this project and I contribute with those skills to the group along with my engineering knowledge. I’m always looking for new knowledge and thrives when I get a problem to solve. I spend my spare time together with my dog and playing games with friends."
   image: /img/patrik.JPG
 - name: Simon Monié
   title: Project manager
   testimonial: "Loving husband with a wonderful daughter and another on the way, where I am used to responsibility both from my private life and former workplaces. Being a project manager for something as complex as this is a first for me, but with my gathered life experiences and with the help from my team I am confident that we will succeed in creating a fully autonomous sailing boat. "
   image: /img/simon.JPG
+- name: Adem Sen
+  title: Software Engineer
+  testimonial: "I worked several years before studying and gotten a lot of experience of different work environments. With a great curiosity for software programming, the AutoSail project will be a fun challenge."
+  image: /img/adem.JPG
+- name: Jakob Norin
+  title: Software Engineer
+  testimonial: "I am part of the software team on the boat and am driven by a great interest in robotics and computer vision. I love the groups dynamics and my coworkers. It is a joy to come to work every day."
+  image: /img/jakob.JPG
+- name: Johan Bergelin
+  title: Requirements Manager
+  testimonial: "With an interest in dependability, the role of requirements manager comes quite naturally. For me, this is an opportunity to express my knowledge and open up a path towards a PhD within dependability and work in a project with competent members I can trust. I am always excited for new challenges and look forward to facing them together with the team in Autosail."
+  image: /img/johan.JPG
+- name: Hubert Stepien
+  title: Validation and Verification Manager
+  testimonial: "A self-motivated student, with a passion for the aerospace industry and a great interest in systems engineering. My work is within the verification domain in the project; I will help others to fulfil our requirements through analysis and testing, something that I enjoy carrying out. During my free time, going to the gym and cooking Italian food is on my go-to list but friends are also very dear to me and spending time with them is invaluable."
+  image: /img/hubert.JPG
+- name: Martin Bilger
+  title: Safety Manager
+  testimonial: "One can never stop learning; this is why my life philosophy is lifelong learning and studying to broaden my horizons. Combining hardware and software is what excites me the most as an engineering student; the role of safety manager lets me evaluate both. During my free time, I have been building a campervan and plan to travel the world for new experiences and adventures together with my loving partner."
+  image: /img/martin.JPG
+- name: David Pantzar
+  title: Communication Manager
+  testimonial: ""
+  image: /img/davidp.JPG
+- name: David Eklund
+  title: Quality Manager
+  testimonial: ""
+  image: /img/davide.JPG
